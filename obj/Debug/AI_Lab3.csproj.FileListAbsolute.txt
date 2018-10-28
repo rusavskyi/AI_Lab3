@@ -1,0 +1,7 @@
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\bin\Debug\AI_Lab3.exe.config
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\bin\Debug\AI_Lab3.exe
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\bin\Debug\AI_Lab3.pdb
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.csprojAssemblyReference.cache
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.csproj.CoreCompileInputs.cache
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.exe
+d:\OneDrive\Documents\Projects\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.pdb
